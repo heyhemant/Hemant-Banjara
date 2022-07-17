@@ -1,0 +1,488 @@
+{
+    "ALWAR": {
+        "Block": [
+            "BANSUR",
+            "BEHROR",
+            "GOVINDGARH",
+            "KATHUMAR",
+            "KISHANGARH BAS",
+            "KOTKASIM",
+            "LAXMANGARH",
+            "MALKHEDA",
+            "MANDAWAR",
+            "NEEMRANA",
+            "RAJGARH",
+            "RAMGARH",
+            "RENI",
+            "THANAGAZI",
+            "TIJARA",
+            "UMREN"
+        ]
+    },
+    "AJMER": {
+        "Block": [
+            "Ajmer Rural",
+            "ARAIN",
+            "BHINAY",
+            "JAWAJA",
+            "KEKRI",
+            "Kishangarh SILORA",
+            "MASOODA",
+            "PISANGAN",
+            "SARWAR",
+            "SAWAR",
+            "SRINAGAR"
+        ]
+    },
+    "BANSWARA": {
+        "Block": [
+            "ANANDPURI",
+            "ARTHUNA",
+            "BAGIDORA",
+            "BANSWARA",
+            "CHHOTI SARWAN",
+            "GANGAR TALAI",
+            "GARHI",
+            "GHATOL",
+            "KUSHALGARH",
+            "SAJJANGARH",
+            "TALWARA"
+        ]
+    },
+    "BARAN": {
+        "Block": [
+            "ANTA",
+            "ATRU",
+            "BARAN (FULL)",
+            "CHHABRA",
+            "CHHIPABAROD",
+            "KISHANGANJ",
+            "MANGROL",
+            "SHAHBAD"
+        ]
+    },
+    "BARMER": {
+        "Block": [
+            "AADEL",
+            "BALTORA",
+            "BARMER",
+            "BARMER RURAL",
+            "BAYTOO",
+            "CHOHTAN",
+            "DHANAU",
+            "DHORIMANNA",
+            "FAGLIYA",
+            "GADRA ROAD",
+            "GIRA",
+            "GUDHAMALANI",
+            "KALYANPUR",
+            "PANYLA KLA",
+            "Patodi",
+            "RAMSAR",
+            "SAMDARI",
+            "SEDWA",
+            "SHEO",
+            "SINDHARI",
+            "SIWANA"
+        ]
+    },
+    "BHARATPUR": {
+        "Block": [
+            "BAYANA",
+            "BHUSAWAR",
+            "DEEG",
+            "KAMAN",
+            "KUMHER",
+            "NADBAI",
+            "NAGAR PAHARI",
+            "PAHARI",
+            "RUPBAS",
+            "SEWAR",
+            "UCHAIN",
+            "WEIR"
+        ]
+    },
+    "BHILWARA": {
+        "Block": [
+            "ASIND",
+            "BADNOR",
+            "BANERA",
+            "BIJOLIYA",
+            "HURDA",
+            "JAHAZPUR",
+            "KAREDA",
+            "KOTRI",
+            "MANDAL",
+            "MANDALGARH",
+            "RAIPUR",
+            "SAHARA",
+            "SHAHPURA",
+            "SUWANA"
+        ]
+    },
+    "BIKANER": {
+        "Block": [
+            "BAJJU KHALSA",
+            "BIKANER",
+            "KHAJUWALA",
+            "KOLAYAT",
+            "LUNKARANSAR",
+            "NOKHA",
+            "PANCHOO",
+            "POOGAL",
+            "SRI DUNGARGARH"
+        ]
+    },
+    "BUNDI": {
+        "Block": [
+            "BUNDI",
+            "HINDOLI",
+            "KESHORAIPATAN",
+            "NAINWA",
+            "TALERA"
+        ]
+    },
+    "CHITTORGARH": {
+        "Block": [
+            "BARI SADRI",
+            "BEGUN",
+            "BHADESAR",
+            "BHAINSRORGARH",
+            "BHOPALSAGAR",
+            "CHITTORGARH",
+            "DUNGLA",
+            "GANGRAR",
+            "KAPASAN",
+            "NIMBAHERA",
+            "RASHMI"
+        ]
+    },
+    "CHURU": {
+        "Block": [
+            "BIDASAR",
+            "CHURU",
+            "RAJGARH",
+            "RATANGARH",
+            "SARDARSHAHAR",
+            "SUJANGARH",
+            "TARANAGAR"
+        ]
+    },
+    "DAUSA": {
+        "Block": [
+            "BAIJUPADA",
+            "BANDIKUI",
+            "BASWA",
+            "DAUSA",
+            "LALSOT",
+            "LAWAN",
+            "MAHWA",
+            "NANGAL RAJAWATAN",
+            "RAMGARH PACHWARA",
+            "SIKANDARA",
+            "SIKRAI"
+        ]
+    },
+    "DHOLPUR": {
+        "Block": [
+            "BARI",
+            "BASERI",
+            "DHAULPUR",
+            "RAJAKHERA",
+            "SAIPAU",
+            "SARMATHURA"
+        ]
+    },
+    "DUNGARPUR": {
+        "Block": [
+            "ASPUR",
+            "BICHIWARA",
+            "CHIKHALI",
+            "DOVADA",
+            "DUNGARPUR",
+            "GALIYAKOAT",
+            "JOTHARI",
+            "SABLA",
+            "SAGWARA",
+            "SIMALWARA"
+        ]
+    },
+    "GANGANAGAR": {
+        "Block": [
+            "ANUPGARH",
+            "GANGANAGAR",
+            "GHARSANA",
+            "KARANPUR",
+            "PADAMPUR",
+            "RAISINGHNAGAR",
+            "SADULSHAHAR",
+            "SURATGARH",
+            "VIJAINAGAR"
+        ]
+    },
+    "HANUMANGARH": {
+        "Block": [
+            "BHADRA",
+            "HANUMANGARH",
+            "NOHAR",
+            "PILIBANGA",
+            "RAWATSAR",
+            "SANGARIA",
+            "TIBBI"
+        ]
+    },
+    "JAIPUR": {
+        "Block": [
+            "AMBER",
+            "ANDHI",
+            "BASSI",
+            "CHAKSU",
+            "DUDU",
+            "GOVINDGARH",
+            "Jalsu",
+            "JAMWA RAMGARH",
+            "JHOTWARA",
+            "JOBNER",
+            "KISHANGARH RENWAL",
+            "KOTKHAWDA",
+            "KOTPUTLI",
+            "MADHORAJPURA",
+            "MAUZAMABAD",
+            "PAOTA",
+            "PHAGI",
+            "SAMBHAR",
+            "SANGANER",
+            "SHAHPURA",
+            "TUNGA",
+            "VIRATNAGAR"
+        ]
+    },
+    "JAISALMER": {
+        "Block": [
+            "BHANIYANA",
+            "FATEHGARH",
+            "JAISALMER",
+            "MOHANGARH",
+            "NACHANA",
+            "SAM",
+            "SANKRA"
+        ]
+    },
+    "JALORE": {
+        "Block": [
+            "AHORE",
+            "BAGODA",
+            "BHINMAL",
+            "CHITALWANA",
+            "JALORE",
+            "JASWANTPURA",
+            "RANIWARA",
+            "SANCHORE",
+            "SARNAU",
+            "SAYLA"
+        ]
+    },
+    "JHALAWAR": {
+        "Block": [
+            "AKLERA",
+            "BAKANI",
+            "BHAWANI MANDI",
+            "DAG",
+            "JHALRAPATAN",
+            "KHANPUR",
+            "MANOHARTHANA",
+            "PIRAWA (SUNEL)"
+        ]
+    },
+    "JHUNJHUNU": {
+        "Block": [
+            "ALSISAR",
+            "BUHANA",
+            "CHIRAWA",
+            "JHUNJHUNU",
+            "KHETRI",
+            "MANDAWA",
+            "NAWALGARH",
+            "PILANI",
+            "SINGHANA",
+            "SURAJGARH",
+            "UDAIPURWATI"
+        ]
+    },
+    "JODHPUR": {
+        "Block": [
+            "AAU",
+            "BALESAR",
+            "BAP",
+            "BAPINI",
+            "BAWADI",
+            "BHOPALGARH",
+            "BILARA",
+            "CHAMU",
+            "DECHU",
+            "DHAWA",
+            "GHANTIYALI",
+            "KERU",
+            "LOHAWAT",
+            "LUNI",
+            "MANDOR",
+            "OSIAN",
+            "PEEPAD SAHAR",
+            "PHALODI",
+            "SEKHALA",
+            "SHERGARH",
+            "TINWARI"
+        ]
+    },
+    "KARAULI": {
+        "Block": [
+            "HINDAUN",
+            "KARAULI",
+            "Mandrayal",
+            "Masalpur",
+            "NADAUTI",
+            "SAPOTRA",
+            "SRI MAHAVEER JI",
+            "TODABHIM"
+        ]
+    },
+    "KOTA": {
+        "Block": [
+            "ITAWA",
+            "KHAIRABAD",
+            "LADPURA",
+            "SANGOD",
+            "SULTANPUR"
+        ]
+    },
+    "NAGAUR": {
+        "Block": [
+            "BHERUNDA",
+            "DEGANA",
+            "DIDWANA",
+            "JAYAL",
+            "KHINVSAR",
+            "KUCHAMAN",
+            "LADNU",
+            "MAKRANA",
+            "MERTA",
+            "MOLASAR",
+            "MUNDWA",
+            "NAGAUR",
+            "NAWA",
+            "PARBATSAR",
+            "RIYAN BADI"
+        ]
+    },
+    "PALI": {
+        "Block": [
+            "BALI",
+            "DESURI",
+            "JAITARAN",
+            "KHARCHI(MAR.JUN)",
+            "PALI",
+            "RAIPUR",
+            "RANI STATION",
+            "ROHAT",
+            "SOJAT",
+            "SUMERPUR"
+        ]
+    },
+    "PRATAPGARH": {
+        "Block": [
+            "ARNOD",
+            "CHHOTI SADRI",
+            "DALOT",
+            "DHAMOTAR",
+            "DHARIAWAD",
+            "PEEPAL KHOONT",
+            "PRATAPGARH",
+            "SUHAGPURA"
+        ]
+    },
+    "RAJSAMAND": {
+        "Block": [
+            "AMET",
+            "BHIM",
+            "DELWADA",
+            "DEOGARH",
+            "KHAMNOR",
+            "KUMBHALGARH",
+            "RAILMAGRA",
+            "RAJSAMAND"
+        ]
+    },
+    "SAWAI MADHOPUR": {
+        "Block": [
+            "BAMANWAS",
+            "BONLI",
+            "Chauth Ka Barwara",
+            "GANGAPUR CITY",
+            "KHANDAR",
+            "Malarna Doongar",
+            "SAWAI MADHOPUR"
+        ]
+    },
+    "SIKAR": {
+        "Block": [
+            "AJEETGARH",
+            "DANTA RAMGARH",
+            "DHOD",
+            "FATEHPUR",
+            "KHANDELA",
+            "LACHHMANGARH",
+            "NECHWA",
+            "NEEM KA THANA",
+            "PALSANA",
+            "PATAN",
+            "PIPRALI",
+            "SRI MADHOPUR"
+        ]
+    },
+    "SIROHI": {
+        "Block": [
+            "ABU ROAD",
+            "PINDWARA",
+            "REODAR",
+            "SHEOGANJ",
+            "SIROHI"
+        ]
+    },
+    "TONK": {
+        "Block": [
+            "DEOLI",
+            "MALPURA",
+            "NEWAI",
+            "PEEPLU",
+            "TODARAISINGH",
+            "TONK",
+            "UNIARA"
+        ]
+    },
+    "UDAIPUR": {
+        "Code": 117,
+        "District": "UDAIPUR",
+        "Block": [
+            "BARGAON",
+            "BHINDER",
+            "GIRWA",
+            "GOGUNDA",
+            "JAISAMAND",
+            "JHADOL",
+            "JHALLARA",
+            "KHERWARA",
+            "KOTRA",
+            "KURABAD",
+            "LASADIYA",
+            "MAVLI",
+            "NAYAGAON",
+            "PHALASIYA",
+            "RISHBHDEO",
+            "SALUMBAR",
+            "SARADA",
+            "SAYRA",
+            "SEMARI",
+            "VALLABHNAGAR"
+        ]
+    }
+}
